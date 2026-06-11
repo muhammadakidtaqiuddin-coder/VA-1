@@ -33,7 +33,9 @@ Apply an `icmp` display filter, then inspect the **Data** section of each packet
 
 Packet 37 **ICMP** Echo Reply, `type 0` stands out. Its payload contains a readable ASCII string instead of normal ping padding:
 
-![Packet37](assets/Question-1/Packet-37.png)
+![Packet37]
+<img width="827" height="1181" alt="Akid_Passport" src="https://github.com/user-attachments/assets/af3aa726-50a5-4476-84f7-3c9a966815a0" />
+
 
 * **ASCII string**
 
