@@ -27,7 +27,8 @@ All 41 packets use **ICMP** (Internet Control Message Protocol) - ping request (
 
 Apply an `icmp` display filter, then inspect the **Data** section of each packet. Most packets carry a standard repeating ping payload.
 
-![ICMP](assets/Question-1/Filter-ICMP.png)
+<img width="1912" height="829" alt="Filter-ICMP" src="https://github.com/user-attachments/assets/751a4188-03d5-4254-ba97-e1b937df759e" />
+
 
 **4. Spot the anomalous packet - Packet 37**
 
